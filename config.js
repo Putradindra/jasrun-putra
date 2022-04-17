@@ -1,6 +1,6 @@
-global.owner = ['6281242656414'] // Put your number here
+global.owner = ['6287816015191'] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['6289504575881'] // Premium user has unlimited limit
+global.prems = ['6287816015191'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -43,8 +43,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'stickerby'
-global.author = `Lord iLvys`
-global.wm = 'Livys Bot'
+global.author = `putra bot v2`
+global.wm = 'putra Bot'
 global.watermark = wm
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.instagram = 'https://www.instagram.com/NullBot/'
